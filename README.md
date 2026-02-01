@@ -1,13 +1,38 @@
-# Filelu
-Este programa permite subir un archivo desde tu computadora a FileLu usando su API
-Título: FileLu Cloud Uploader.
+\# FileLu Python Uploader Tool 🚀
 
-requirements.txt 
 
-Descripción: Una herramienta sencilla en Python para respaldar archivos en FileLu.
 
-Instrucciones:
+Este es un script sencillo y eficiente desarrollado en Python para interactuar con la API de \*\*FileLu\*\*. Permite a los usuarios subir archivos a su almacenamiento en la nube de forma rápida desde la línea de comandos.
 
-Instalar requerimientos: pip install -r requirements.txt.
 
-Ejecutar: python uploader.py.
+
+---
+
+
+
+\## 📋 Características / Features
+
+\* \*\*Simple \& Fast:\*\* Sube archivos con un solo comando.
+
+\* \*\*API Integration:\*\* Conexión directa con los servidores de FileLu.
+
+\* \*\*Error Handling:\*\* Sistema básico de detección de errores de conexión.
+
+
+
+---
+
+
+
+\## 🛠️ Instalación / Installation
+
+
+
+1\. \*\*Clonar el repositorio / Clone the repo:\*\*
+
+&nbsp;  ```bash
+
+&nbsp;  git clone \[https://github.com/TU\_USUARIO/NOMBRE\_DEL\_REPO.git](https://github.com/TU\_USUARIO/NOMBRE\_DEL\_REPO.git)
+
+&nbsp;  cd NOMBRE\_DEL\_REPO
+
